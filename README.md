@@ -17,8 +17,8 @@ Our system is designed to provide a comprehensive solution for managing medical 
 ## Team Members - Who contributed to the development of this project:
 
 - Mateo Losha
-- Laert Bregasi
 - Arber Pilo
+- Laert Bregasi
 
 ## Getting Started
 
