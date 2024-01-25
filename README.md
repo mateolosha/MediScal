@@ -17,6 +17,11 @@ Our system is designed to provide a comprehensive solution for managing medical 
 ## Getting Started
 
 Follow these steps to get the project up and running:
+##Team Members - The following team members contributed to the development of this project:
+
+- Mateo Losha
+- Laert Bregasi
+- Arber Pilo
 
 [Download from the link](https://www.example.com)
 
