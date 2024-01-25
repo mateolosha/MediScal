@@ -25,7 +25,7 @@ Our system is designed to provide a comprehensive solution for managing medical 
 Follow these steps to get the project up and running:
 
 
-[Download from the link](https://www.example.com](https://we.tl/t-bhDIjlilec)
+[Download from the link]([https://www.example.com](https://we.tl/t-bhDIjlilec](https://we.tl/t-bhDIjlilec))
 
 OR
 
