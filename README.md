@@ -14,7 +14,7 @@ Our system is designed to provide a comprehensive solution for managing medical 
 - Appointment Scheduling: Schedule and manage appointments for patients and doctors.
 - User Authentication: Secure login system for healthcare professionals.
 
-## Team Members - The following team members contributed to the development of this project:
+## Team Members - Who contributed to the development of this project:
 
 - Mateo Losha
 - Laert Bregasi
